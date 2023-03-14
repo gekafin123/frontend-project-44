@@ -5,7 +5,10 @@
 
 # Проект: Игры разума
 Данный проект представляет из себя набор из 5 консольных игр для прокачки мозга. Каждая игра задает вопросы, на которые нужно дать правильные ответы. После трех правильных ответов считается, что игра пройдена. Неправильные ответы завершают игру и предлагают пройти ее заново.
-## Установка пакета, запуска игры brain-even, пример победы и поражения игрока
+
+## brain-even (Проверка на чётность)
 [![asciicast](https://asciinema.org/a/564940.svg)](https://asciinema.org/a/564940)
-## brain-calc
+## brain-calc (Калькулятор)
 [![asciicast](https://asciinema.org/a/fQgtOUJXTY9iI55qs67DtB5ml.svg)](https://asciinema.org/a/fQgtOUJXTY9iI55qs67DtB5ml)
+## brain-gcd (Наибольший общий делитель)
+[![asciicast](https://asciinema.org/a/uQen1GGwewSTZCQhLfnywpd1v.svg)](https://asciinema.org/a/uQen1GGwewSTZCQhLfnywpd1v)
