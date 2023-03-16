@@ -12,3 +12,5 @@
 [![asciicast](https://asciinema.org/a/fQgtOUJXTY9iI55qs67DtB5ml.svg)](https://asciinema.org/a/fQgtOUJXTY9iI55qs67DtB5ml)
 ## brain-gcd (Наибольший общий делитель)
 [![asciicast](https://asciinema.org/a/uQen1GGwewSTZCQhLfnywpd1v.svg)](https://asciinema.org/a/uQen1GGwewSTZCQhLfnywpd1v)
+## brain-progression (Арифметическая прогрессия)
+[![asciicast](https://asciinema.org/a/LZTK2tRdtKqztlRrxyGeW6HqI.svg)](https://asciinema.org/a/LZTK2tRdtKqztlRrxyGeW6HqI)
